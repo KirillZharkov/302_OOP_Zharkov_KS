@@ -1,0 +1,13 @@
+{
+  "name": "kirill/task04",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    },
+    "files": [
+      "src/Test.php",
+      "src/checkIfBalanced.php"
+    ]
+  },
+  "require": {}
+}
