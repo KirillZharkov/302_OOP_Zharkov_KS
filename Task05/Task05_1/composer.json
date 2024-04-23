@@ -1,0 +1,19 @@
+{
+  "name": "kirill/task05",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/",
+      "Tests\\": "tests/Unit/"
+    },
+    "files": [
+      "src/Student.php",
+      "src/StudentsList.php"
+    ]
+  },
+  "authors": [
+    {}
+  ],
+  "require": {
+    "phpunit/phpunit": "^11.0"
+  }
+}
